@@ -10,7 +10,7 @@ Meu nome é Kimberlly Silva
 
 kimberlly.amaral.silva@escola.pr.gov.br
 
-@eae.siilva
+@eae.siilvaa
 
 
 ![image](https://github.com/eaesiilvaa/eaesiilvaa/assets/142311819/0b0456a8-5c3c-4364-beca-d4798c500413)
